@@ -19,7 +19,7 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
-[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
+[!Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
 
 
 
