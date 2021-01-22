@@ -20,7 +20,7 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
-![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=radical,prs)
+![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=radical)
 
 
 
