@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am a student of Systems Analysis and Development at Universidade Estácio de Sá, I work as a Mobile developer and in my spare time I have dedicated myself to studying other programming languages ​​such as Java, ReactJs and Node.Js
+
+https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=radical
