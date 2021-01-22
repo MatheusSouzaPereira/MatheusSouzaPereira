@@ -19,8 +19,9 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
-<details>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=radical,prs)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 
 
 
