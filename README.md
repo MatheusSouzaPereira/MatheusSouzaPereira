@@ -19,7 +19,7 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
-[My Linkedi](//icons8-linkedin.svg)
+[![Linkedin Badge]
 
 
 
