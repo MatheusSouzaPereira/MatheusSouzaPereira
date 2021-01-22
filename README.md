@@ -19,12 +19,15 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
+[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
 
 
 
-[![Matheus's github stats](https://qrcode-three.vercel.app/api?url=https:/www.linkedin.com/in/matheus-souza-pereira-da-silva/)](https://www.linkedin.com/in/matheus-souza-pereira-da-silva/)
+[![Matheus's Linkedin stats](https://qrcode-three.vercel.app/api?url=https:/www.linkedin.com/in/matheus-souza-pereira-da-silva/)](https://www.linkedin.com/in/matheus-souza-pereira-da-silva/)
  
+
+
+
 
 
 
