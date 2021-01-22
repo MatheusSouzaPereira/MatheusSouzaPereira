@@ -26,7 +26,12 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 [![Matheus's Linkedin stats](https://qrcode-three.vercel.app/api?url=https:/www.linkedin.com/in/matheus-souza-pereira-da-silva/)](https://www.linkedin.com/in/matheus-souza-pereira-da-silva/)
  
  
- [![whatsapp](./whatsapp-logo-icone-1.png)](https://qrcode-three.vercel.app/api?url=https://api.whatsapp.com/send?phone=5521997055814)
+ [![whatsapp](./whatsapp)]
+ 
+ 
+ 
+ 
+ [![Whatsapp](https://qrcode-three.vercel.app/api?url=https://api.whatsapp.com/send?phone=5521997055814)
 
 
 
