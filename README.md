@@ -1,4 +1,4 @@
-### Hi there 👋
+### Matheus Souza 
 
 <!--
 **MatheusSouzaPereira/MatheusSouzaPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###I am a student of Systems Analysis and Development at Universidade Estácio de Sá, I work as a Mobile developer and in my spare time I have dedicated myself to studying other programming languages ​​such as Java, ReactJs and Node.Js
