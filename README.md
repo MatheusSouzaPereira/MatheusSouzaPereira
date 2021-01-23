@@ -21,7 +21,7 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
-![Profile](./Cover for GitHub.gif)
+![Profile](./CoverforGitHub.gif)
 
 
 
