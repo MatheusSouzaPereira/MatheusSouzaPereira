@@ -19,6 +19,14 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
+
+
+![Profile](./Cover for GitHub.mp4)
+
+
+
+
+
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
 
 
