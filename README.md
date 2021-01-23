@@ -31,7 +31,7 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
  
  
  
- [![Whatsapp](https://qrcode-three.vercel.app/api?url=https://api.whatsapp.com/send?phone=5521997055814)
+ ![Whatsapp](https://qrcode-three.vercel.app/api?url=https://api.whatsapp.com/send?phone=5521997055814)
 
 
 
