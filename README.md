@@ -50,4 +50,7 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
 
