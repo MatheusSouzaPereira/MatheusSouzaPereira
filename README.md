@@ -20,10 +20,10 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 
 
 
-
+<!-- 
 ![Profile](./CoverforGitHub.gif)
 
-
+ -->
 
 
 
@@ -49,8 +49,6 @@ I am a student of Systems Analysis and Development at Universidade Estácio de S
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=radical)
 
 
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
